@@ -1,0 +1,2 @@
+# RepositTheFirstLegos
+Initial repository
